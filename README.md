@@ -1,0 +1,2 @@
+# Website_scanner
+This is an automatic Vulnerability Scanner that is used to crawl the whole website and scan for some pre-defined vulnerabilities like SQL injection, Command Line Injection, XSS, etc. there is option of a login too so that you can use that option to get deep into the website and scan more vulnerabilities, moreover this is available in both CLI and GUI option and There is option to Export the Report too.
